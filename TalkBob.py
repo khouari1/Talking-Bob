@@ -3,15 +3,6 @@ print os.path.basename(__file__)
 import bobf #imports the functions used below
 import Tkinter
 
-top = Tkinter.Tk()
-top.title("Talking Bob")
-top.geometry("300x200+300+300")
-# Code to add widgets will go here...
-app.grid()
-button1 = Button(app, text = "Please Ok to start Bob!")
-button.grid()
-top.mainloop()
-
 print ("Hello, my name is Bob. What is your name?")
 name = raw_input()
 print ("It's very nice to meet you," + " " + name + ".")
