@@ -1,4 +1,4 @@
 Talking-Bob
 ===========
 
-Program you can talk to and store details about the user
+Not much just playing around with a bit of python
